@@ -1,6 +1,6 @@
 
 <h1 align="center">Avazu Advertisement Click-through Prediction</h3>
-<h5 align="center">April 2019  <br/> <br/>  <br/> </h5>
+<h5 align="center">April 2019  <br/>  <br/> </h5>
   <p align="center">
     <br />
     <a href="https://github.com/charlelotfalla/Avazu-Advertisement-Click-through-Prediction"><strong>Explore the docs »</strong></a>
