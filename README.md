@@ -1,5 +1,5 @@
 
-<h3 align="center">Avazu Advertisement Click-through Prediction</h3>
+<h1 align="center">Avazu Advertisement Click-through Prediction</h3>
 
   <p align="center">
     <br />
